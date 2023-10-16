@@ -1,5 +1,8 @@
 # Quantum Factorization - Shallow Depth Factoring (SDF)
 
+## Paper 
+https://arxiv.org/abs/2305.19542
+
 ## Overview
 
 Large integer factorization is a challenging problem, especially in the realm of quantum computing. Classical methods for computing prime factors suffer from exponential time complexity. However, with quantum computing, there is immense potential for achieving faster computational processes.
