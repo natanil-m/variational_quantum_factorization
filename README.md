@@ -19,6 +19,15 @@ We present the Shallow Depth Factoring (SDF) algorithm, a novel quantum approach
 - Linear Scalability: The circuit depth of the shallow-depth quantum circuits scales linearly with the size of the integer to be factorized.
 - Enhanced Feasibility: By minimizing the number of gates in the circuit, our algorithm improves feasibility and reduces vulnerability to errors.
 
+## Examples
+
+# Example 1
+![Example1](https://github.com/natanil-m/variational_quantum_factorization/blob/main/figure_example1.png)
+
+# Example 2
+![Example2](https://github.com/natanil-m/variational_quantum_factorization/blob/main/figure_example2.png)
+
+
 
 ## Contribution
 
