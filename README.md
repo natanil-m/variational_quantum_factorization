@@ -14,8 +14,6 @@ We present the Shallow Depth Factoring (SDF) algorithm, a novel quantum approach
 3. Variational Quantum Search (VQS): Utilizing VQS to find all feasible solutions efficiently.
 
 ## Benefits
-
-- Exponential Speed-up: SDF offers exponential speed-up compared to classical factorization methods.
 - Linear Scalability: The circuit depth of the shallow-depth quantum circuits scales linearly with the size of the integer to be factorized.
 - Enhanced Feasibility: By minimizing the number of gates in the circuit, our algorithm improves feasibility and reduces vulnerability to errors.
 
